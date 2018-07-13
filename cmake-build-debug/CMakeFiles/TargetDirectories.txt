@@ -1,0 +1,3 @@
+/Users/adamstelmaszyk/CLionProjects/projekt_na_fizyke/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adamstelmaszyk/CLionProjects/projekt_na_fizyke/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adamstelmaszyk/CLionProjects/projekt_na_fizyke/cmake-build-debug/CMakeFiles/projekt_na_fizyke.dir
